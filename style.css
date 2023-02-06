@@ -1,0 +1,20 @@
+:root{
+    --white-main: #FFFFFF;
+    --gray-secondary: #C0C0C0;
+    --blue-button: #167BF7;
+    --red-tittle: #EC2F46;
+    --background-main: #00030C;
+    --white-p: #F9F9F9;
+}
+
+body{
+    background-color: var(--background-main);
+    color: var(--white-main);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
